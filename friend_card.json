@@ -140,16 +140,6 @@
     "coordinate": "パステルマカロン"
   },
   {
-    "timestamp": "2022-06-09T15:40:30.231Z",
-    "name": "しちみ",
-    "username": "なみこ",
-    "qr": "54A30388B6E9054F03273F72AB00474ECA6597CBF8207247AF13",
-    "comment": "",
-    "img": "https://i.imgur.com/Kqnmvi6.png",
-    "tags": [],
-    "coordinate": "シナモロールだいすき"
-  },
-  {
     "timestamp": "2022-06-08T16:55:19.806Z",
     "name": "そいる",
     "username": "とびおじ",
@@ -234,6 +224,16 @@
     "img": "https://i.imgur.com/HKyScEe.png",
     "tags": [],
     "coordinate": "エナメルジャンパーレッド"
+  },
+  {
+    "timestamp": "2022-06-09T15:40:30.231Z",
+    "name": "なみこ",
+    "username": "しちみ",
+    "qr": "54A30388B6E9054F03273F72AB00474ECA6597CBF8207247AF13",
+    "comment": "",
+    "img": "https://i.imgur.com/Kqnmvi6.png",
+    "tags": [],
+    "coordinate": "シナモロールだいすき"
   },
   {
     "timestamp": "2022-06-09T15:41:38.530Z",
