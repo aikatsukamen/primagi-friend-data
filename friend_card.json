@@ -175,10 +175,22 @@
     "tags": [
       "オリコ",
       "ポップ",
-      "",
       "アクセなし"
     ],
     "coordinate": "ダンス系ポップオリコ"
+  },
+  {
+    "timestamp": "2022-06-14T16:57:16.496Z",
+    "name": "さゆ",
+    "username": "ぽん酢",
+    "qr": "54A30345655FF100CC405D674E3117B8F47ADEBCB2A64F9AF7C6",
+    "comment": "きいろい",
+    "img": "https://i.imgur.com/Xen4lf6.jpg",
+    "tags": [
+      "イエロー",
+      "スイーツ"
+    ],
+    "coordinate": "エンジェルアイスイエロー"
   },
   {
     "timestamp": "2022-06-08T16:47:44.589Z",
