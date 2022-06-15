@@ -230,14 +230,14 @@
   },
   {
     "timestamp": "2022-06-15T12:50:47.876Z",
-    "name": "しちも",
+    "name": "しちみ",
     "username": "しちみ",
     "qr": "54A303E30F18089EC97B68F13DB97EEAEC2D2C846299C6E92939",
-    "comment": "",
+    "comment": "ゴーグルはいいぞ",
     "img": "https://i.imgur.com/PBZgrC4.jpg",
     "tags": [
       "オリコ",
-      "むらさき"
+      "紫"
     ],
     "coordinate": "レースヒーローパープル'"
   },
@@ -378,6 +378,19 @@
     "img": "https://i.imgur.com/ciJcFxo.jpg",
     "tags": [],
     "coordinate": "ゆめかわサロペット"
+  },
+  {
+    "timestamp": "2022-06-15T13:02:23.597Z",
+    "name": "なみこ",
+    "username": "しちみ",
+    "qr": "54A303909EC81962E2382062C79FE0597ECC420F266C9E79AFCD",
+    "comment": "ゴーグルはいいぞ",
+    "img": "https://i.imgur.com/bETOvgy.jpg",
+    "tags": [
+      "オリコ",
+      "赤"
+    ],
+    "coordinate": "レースヒーロー'"
   },
   {
     "timestamp": "2022-06-08T07:24:39.679Z",
