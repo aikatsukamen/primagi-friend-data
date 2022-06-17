@@ -275,7 +275,8 @@
     "img": "https://i.imgur.com/PBZgrC4.jpg",
     "tags": [
       "オリコ",
-      "紫"
+      "レースヒーロー",
+      "パープル"
     ],
     "coordinate": "レースヒーローパープル'"
   },
@@ -288,7 +289,7 @@
     "img": "https://i.imgur.com/5P50ZjE.jpg",
     "tags": [
       "ドレッシーピアノ",
-      "紫"
+      "パープル"
     ],
     "coordinate": "ドレッシーピアノ"
   },
@@ -301,7 +302,7 @@
     "img": "https://i.imgur.com/JJNVkyU.jpg",
     "tags": [
       "エレメンツコーデ",
-      "赤"
+      "レッド"
     ],
     "coordinate": "フレアエレメンツ"
   },
@@ -430,7 +431,9 @@
     "qr": "54A30388B6E9054F03273F72AB00474ECA6597CBF8207247AF13",
     "comment": "",
     "img": "https://i.imgur.com/76oBdCC.jpg",
-    "tags": [],
+    "tags": [
+      "サンリオ"
+    ],
     "coordinate": "シナモロールだいすき"
   },
   {
@@ -452,7 +455,8 @@
     "img": "https://i.imgur.com/bETOvgy.jpg",
     "tags": [
       "オリコ",
-      "赤"
+      "レースヒーロー",
+      "レッド"
     ],
     "coordinate": "レースヒーロー'"
   },
@@ -477,7 +481,8 @@
     "comment": "エレメンツ",
     "img": "https://i.imgur.com/VI2H5Jc.jpg",
     "tags": [
-      "エレメンツコーデ"
+      "エレメンツコーデ",
+      "イエロー"
     ],
     "coordinate": "フラッシュエレメンツ"
   },
