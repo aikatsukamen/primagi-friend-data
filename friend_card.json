@@ -238,7 +238,10 @@
     "comment": "",
     "img": "https://i.imgur.com/649cmWF.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "イースターバニー",
+      "ブラック",
+      "黒"
     ],
     "coordinate": "イースターバニーブラック"
   },
@@ -250,7 +253,10 @@
     "comment": "",
     "img": "https://i.imgur.com/W49nWv8.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "プリマジチェック",
+      "パープル",
+      "紫"
     ],
     "coordinate": "プリマジチェックパープル"
   },
@@ -262,7 +268,8 @@
     "comment": "",
     "img": "https://i.imgur.com/1fLcuvL.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "パステルマカロン"
     ],
     "coordinate": "パステルマカロン"
   },
@@ -276,7 +283,8 @@
     "tags": [
       "オリコ",
       "レースヒーロー",
-      "パープル"
+      "パープル",
+      "紫"
     ],
     "coordinate": "レースヒーローパープル'"
   },
@@ -289,7 +297,8 @@
     "img": "https://i.imgur.com/5P50ZjE.jpg",
     "tags": [
       "ドレッシーピアノ",
-      "パープル"
+      "パープル",
+      "紫"
     ],
     "coordinate": "ドレッシーピアノ"
   },
@@ -302,7 +311,9 @@
     "img": "https://i.imgur.com/JJNVkyU.jpg",
     "tags": [
       "エレメンツコーデ",
-      "レッド"
+      "フレア",
+      "レッド",
+      "赤"
     ],
     "coordinate": "フレアエレメンツ"
   },
@@ -398,7 +409,8 @@
     "comment": "",
     "img": "https://i.imgur.com/p2I9xMY.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "キラパワ"
     ],
     "coordinate": "キラパワサニーキラリ"
   },
@@ -410,7 +422,10 @@
     "comment": "",
     "img": "https://i.imgur.com/tSOpmyd.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "フォーチュンスター",
+      "オレンジ",
+      "橙"
     ],
     "coordinate": "フォーチュンスターオレンジ"
   },
@@ -421,7 +436,11 @@
     "qr": "54A30309BC940CF884ADFB3AD07F0D1F9EC00521D0A0E56E8E7B",
     "comment": "",
     "img": "https://i.imgur.com/QJRZRKh.jpg",
-    "tags": [],
+    "tags": [
+      "エナメルジャンパー",
+      "レッド",
+      "赤"
+    ],
     "coordinate": "エナメルジャンパーレッド"
   },
   {
@@ -443,7 +462,9 @@
     "qr": "54A3039BB3F257E821DF61CE677ACF3DBAC9CC10B042A797D092",
     "comment": "",
     "img": "https://i.imgur.com/ciJcFxo.jpg",
-    "tags": [],
+    "tags": [
+      "ゆめかわサロペット"
+    ],
     "coordinate": "ゆめかわサロペット"
   },
   {
@@ -456,7 +477,8 @@
     "tags": [
       "オリコ",
       "レースヒーロー",
-      "レッド"
+      "レッド",
+      "赤"
     ],
     "coordinate": "レースヒーロー'"
   },
@@ -469,7 +491,8 @@
     "img": "https://i.imgur.com/J8C0rnr.jpg",
     "tags": [
       "ドレッシーピアノ",
-      "ピンク"
+      "ピンク",
+      "桃"
     ],
     "coordinate": "ドレッシーピアノピンク"
   },
@@ -482,7 +505,9 @@
     "img": "https://i.imgur.com/VI2H5Jc.jpg",
     "tags": [
       "エレメンツコーデ",
-      "イエロー"
+      "フラッシュ",
+      "イエロー",
+      "黄"
     ],
     "coordinate": "フラッシュエレメンツ"
   },
@@ -495,7 +520,8 @@
     "img": "https://i.imgur.com/mVnhkr5.jpg",
     "tags": [
       "プリマジチェック",
-      "レッド"
+      "レッド",
+      "赤"
     ],
     "coordinate": "プリマジチェックレッド"
   },
