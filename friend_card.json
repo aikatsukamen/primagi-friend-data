@@ -544,7 +544,7 @@
     "username": "ミントてゃん",
     "qr": "54A3033CC37DDC5C1EF060909084AD624508492C1BDEFF9810A9",
     "comment": "てゃんちゃんの私服です",
-    "img": "https://imgur.com/gallery/Gn6R6HL",
+    "img": "https://i.imgur.com/rYgOjgr.jpg",
     "tags": [
       "ミックスコーデ"
     ],
@@ -882,6 +882,20 @@
       "ホワイト"
     ],
     "coordinate": "ウエディングローズホワイト"
+  },
+  {
+    "timestamp": "2022-06-19T11:56:53.655Z",
+    "name": "ぱすた",
+    "username": "アイカツ仮面",
+    "qr": "54A30398BDD391C4309A7BB0CFB81A4CC4CFCC0ECA0D0302C6DE",
+    "comment": "いっぱい呼んでね",
+    "img": "https://i.imgur.com/xbLqnBv.jpg",
+    "tags": [
+      "ハッピーセーラー",
+      "ブルー",
+      "スカート"
+    ],
+    "coordinate": "ハッピーセーラーブルー"
   },
   {
     "timestamp": "2022-06-08T17:01:17.294Z",
