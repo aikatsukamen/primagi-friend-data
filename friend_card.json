@@ -86,10 +86,20 @@
     "coordinate": "ドレッシーピアノブルー"
   },
   {
-    "timestamp": "2022-07-09T06:44:22.481Z",
+    "timestamp": "2022-06-26T15:55:22.173Z",
     "name": "かや",
     "username": "KayaVI",
     "qr": "54A303BE0833D353579BFE6A730CA892D6DB79F65EA8948FD251",
+    "comment": "",
+    "img": "https://files.kirakiratter.com/media_attachments/files/002/707/517/original/be2bce4b51720c26.jpg",
+    "tags": [],
+    "coordinate": "リトルバロンブラック"
+  },
+  {
+    "timestamp": "2022-07-09T06:44:22.481Z",
+    "name": "かや",
+    "username": "KayaVI",
+    "qr": "54A30303BB60734B1FE004C8A5977383BF8B07B89FD0C3FCA5BB",
     "comment": "",
     "img": "https://files.kirakiratter.com/media_attachments/files/002/707/472/original/05af5aa405158115.jpeg",
     "tags": [],
