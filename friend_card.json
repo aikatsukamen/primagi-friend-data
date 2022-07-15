@@ -19,7 +19,8 @@
     "comment": "",
     "img": "https://i.imgur.com/eVh98yi.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "イースターバニー"
     ],
     "coordinate": "イースターバニー"
   },
@@ -31,7 +32,8 @@
     "comment": "",
     "img": "https://i.imgur.com/UEmXTf4.png",
     "tags": [
-      "スカート"
+      "スカート",
+      "クリスマスベル"
     ],
     "coordinate": "クリスマスベルピンク"
   },
@@ -68,7 +70,8 @@
     "img": "https://files.kirakiratter.com/media_attachments/files/002/684/834/small/feb537b94ec7d302.jpg",
     "tags": [
       "みどり",
-      "ファンブック"
+      "ファンブック",
+      "テクノマジカル"
     ],
     "coordinate": "テクノマジカルグリーン"
   },
@@ -81,7 +84,8 @@
     "img": "https://files.kirakiratter.com/media_attachments/files/002/684/835/original/6c822636d435f9c9.jpg",
     "tags": [
       "ワンピース",
-      "ブルー"
+      "ブルー",
+      "ドレッシーピアノ"
     ],
     "coordinate": "ドレッシーピアノブルー"
   },
@@ -92,7 +96,9 @@
     "qr": "54A303BE0833D353579BFE6A730CA892D6DB79F65EA8948FD251",
     "comment": "",
     "img": "https://files.kirakiratter.com/media_attachments/files/002/707/517/original/be2bce4b51720c26.jpg",
-    "tags": [],
+    "tags": [
+      "リトルバロン"
+    ],
     "coordinate": "リトルバロンブラック"
   },
   {
@@ -113,7 +119,8 @@
     "comment": "",
     "img": "https://files.kirakiratter.com/media_attachments/files/002/707/474/original/5f286d26ef5d7716.jpeg",
     "tags": [
-      "スター"
+      "スター",
+      "フォーチュンスター"
     ],
     "coordinate": "フォーチュンスター"
   },
@@ -138,7 +145,8 @@
     "comment": "イェイ！",
     "img": "https://files.kirakiratter.com/media_attachments/files/002/707/477/original/f2209e4a089cf19b.jpeg",
     "tags": [
-      "あお"
+      "あお",
+      "チェリークリーム"
     ],
     "coordinate": "チェリークリームブルー"
   },
@@ -203,7 +211,9 @@
     "qr": "54A303FA0D594761F45D6417EF27B2C8D48C9070232759AEA1FE",
     "comment": "アクセとシューズは持ってないのでブラック",
     "img": "https://i.imgur.com/aifaxBf.jpg",
-    "tags": [],
+    "tags": [
+      "ステンドグラス"
+    ],
     "coordinate": "ステンドグラスホワイト(ミックス)"
   },
   {
@@ -233,7 +243,9 @@
     "qr": "54A30376146DE91A5442C0C99CDB12267C222F44E05937233AC6",
     "comment": "",
     "img": "https://i.imgur.com/u2kp8fc.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックレッド"
   },
   {
@@ -243,7 +255,9 @@
     "qr": "54A3038E3FF01378746337A14B704B2CAFAAA68B1E8B22C54811",
     "comment": "",
     "img": "https://i.imgur.com/KynrLra.jpg",
-    "tags": [],
+    "tags": [
+      "フォーチュンスター"
+    ],
     "coordinate": "フォーチュンスターオレンジ"
   },
   {
@@ -283,7 +297,9 @@
     "qr": "54A30374AF406E2C0A114F053838726BDE62BFE033A28E1DE561",
     "comment": "",
     "img": "https://i.imgur.com/HLMDJ81.jpg",
-    "tags": [],
+    "tags": [
+      "パッションエトワール"
+    ],
     "coordinate": "パッションエトワールパープル"
   },
   {
@@ -305,7 +321,9 @@
     "qr": "54A303DDFBB8191654A1814FF3C6E1609BA03F23C501F4688F1A",
     "comment": "",
     "img": "https://i.imgur.com/KBwfnPm.jpg",
-    "tags": [],
+    "tags": [
+      "ヴァンパイアガール"
+    ],
     "coordinate": "ヴァンパイアガールホワイト"
   },
   {
@@ -336,7 +354,8 @@
     "comment": "",
     "img": "https://i.imgur.com/2KvHMad.jpg",
     "tags": [
-      "デカリボン"
+      "デカリボン",
+      "ハッピーセーラー"
     ],
     "coordinate": "ハッピーセーラーブルー"
   },
@@ -347,7 +366,9 @@
     "qr": "54A303043A43E967FFFAF81E64E19825DE6ABE4B8EAF536059D6",
     "comment": "",
     "img": "https://i.imgur.com/d3VQoZf.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックブラック"
   },
   {
@@ -370,7 +391,8 @@
     "comment": "",
     "img": "https://i.imgur.com/oavfcJ7.jpg",
     "tags": [
-      "ブラック"
+      "ブラック",
+      "ヴァンパイアガール"
     ],
     "coordinate": "ヴァンパイアガールホワイト"
   },
@@ -421,7 +443,9 @@
     "qr": "54A3030CF0A36781AC115C2538C7A121BEE5871C7036E2A8F6CC",
     "comment": "",
     "img": "https://i.imgur.com/fjeH2EQ.jpg",
-    "tags": [],
+    "tags": [
+      "パッションエトワール"
+    ],
     "coordinate": "パッションエトワールレッド"
   },
   {
@@ -688,7 +712,8 @@
     "comment": "ゆめかわサロペット",
     "img": "https://i.imgur.com/PwEACpO.jpg",
     "tags": [
-      "麦わら帽子"
+      "麦わら帽子",
+      "ゆめかわサロペット"
     ],
     "coordinate": "カントリー娘"
   },
@@ -711,7 +736,9 @@
     "qr": "54A303A7E363FA8CD79FE947EE90F5141EF5B1D1FA1120E19FE2",
     "comment": "",
     "img": "https://i.imgur.com/EaVvq4V.jpg",
-    "tags": [],
+    "tags": [
+      "ハッピーセーラー"
+    ],
     "coordinate": "ハッピーセーラーブルー"
   },
   {
@@ -721,7 +748,9 @@
     "qr": "54A3031081AB4D99F29F2D35E50071F6203A7781EC91234BB440",
     "comment": "",
     "img": "https://i.imgur.com/SaZa6G2.png",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックピンク"
   },
   {
@@ -1242,7 +1271,9 @@
     "qr": "54A3038C3780EF1D694B4D767C30A400AC0897663018FB2ED9BD",
     "comment": "",
     "img": "https://i.imgur.com/u8TkAwo.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックブルー"
   },
   {
@@ -1334,7 +1365,9 @@
     "qr": "54A303CF161667CA1E0916D32D851D90EBBF8AB40076D307FA53",
     "comment": "",
     "img": "https://i.imgur.com/sGnccTP.jpg",
-    "tags": [],
+    "tags": [
+      "ヴァンパイアガール"
+    ],
     "coordinate": "ヴァンパイアガール"
   },
   {
@@ -1344,7 +1377,9 @@
     "qr": "54A30326DFA5DB1E3D9B858D50F87A7B36B103DEF21D11F39BA6",
     "comment": "",
     "img": "https://i.imgur.com/batRcWw.jpg",
-    "tags": [],
+    "tags": [
+      "ドレッシーピアノ"
+    ],
     "coordinate": "ドレッシーピアノレッド"
   },
   {
@@ -1376,7 +1411,10 @@
     "qr": "54A303067359462149D3BFFEC7EB89102A366D54AE02CA137BFA",
     "comment": "",
     "img": "https://i.imgur.com/DdsJsBx.jpg",
-    "tags": [],
+    "tags": [
+      "ステンドグラス",
+      "ヘブンズ"
+    ],
     "coordinate": "ステンドグラスヘブンズ"
   },
   {
@@ -1385,8 +1423,10 @@
     "username": "あめ",
     "qr": "54A30312B81BF53B7BFAA8D31CE1509EB44C55B49D599E6C92FF",
     "comment": "",
-    "img": "https://i.imgur.com/EB3oGLy.jpg",
-    "tags": [],
+    "img": "https://i.imgur.com/mD0dWUH.jpg",
+    "tags": [
+      "アドベンチャー"
+    ],
     "coordinate": "アドベンチャー"
   },
   {
@@ -1441,7 +1481,8 @@
     "comment": "",
     "img": "https://i.imgur.com/DQGvVnl.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "プリマジチェック"
     ],
     "coordinate": "プリマジチェックブラック"
   },
@@ -1472,7 +1513,9 @@
     "qr": "54A3034A7660545C7281EBFE878E76CC11A4B2429BF00CB74121",
     "comment": "",
     "img": "https://i.imgur.com/juuBhos.png",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックブルー"
   },
   {
@@ -1483,7 +1526,8 @@
     "comment": "",
     "img": "https://i.imgur.com/M3OIYGA.jpeg",
     "tags": [
-      "レッド"
+      "レッド",
+      "パッションエトワール"
     ],
     "coordinate": "パッションエトワールレッド"
   },
@@ -1506,7 +1550,9 @@
     "qr": "54A303EB6BD45610A1150122EAB5C4F9308E719AB4F602E86F81",
     "comment": "",
     "img": "https://i.imgur.com/bdUkOh1.jpg",
-    "tags": [],
+    "tags": [
+      "クリスマスベル"
+    ],
     "coordinate": "クリスマスベルピンク"
   },
   {
@@ -1516,7 +1562,9 @@
     "qr": "54A30388103224BE837468BAD952A3759E8AE19B45A6AA555C92",
     "comment": "",
     "img": "https://i.imgur.com/NFBSsgA.jpg",
-    "tags": [],
+    "tags": [
+      "イースターバニー"
+    ],
     "coordinate": "イースターバニーブラック"
   },
   {
@@ -1536,7 +1584,9 @@
     "qr": "54A30308734060C39A7325B1FFAAF9C1D91F3919EEBC16EFDDEC",
     "comment": "",
     "img": "https://i.imgur.com/gLAR4eW.png",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックパープル"
   },
   {
@@ -1548,7 +1598,8 @@
     "img": "https://i.imgur.com/1VygPXJ.jpg",
     "tags": [
       "イエロー",
-      "スカート"
+      "スカート",
+      "ウエディングローズ"
     ],
     "coordinate": "ウエディングローズイエロー"
   },
@@ -1561,7 +1612,8 @@
     "img": "https://i.imgur.com/jgmhnzz.jpg",
     "tags": [
       "ブルー",
-      "スカート"
+      "スカート",
+      "ハッピーセーラー"
     ],
     "coordinate": "ハッピーセーラーブルー"
   },
@@ -1573,6 +1625,7 @@
     "comment": "",
     "img": "https://i.imgur.com/WnJhohU.jpg",
     "tags": [
+      "リトルバロン",
       "ブラック"
     ],
     "coordinate": "リトルバロンブラック"
