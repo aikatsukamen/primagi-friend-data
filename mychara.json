@@ -30,7 +30,9 @@
     "qr": "54A30376146DE91A5442C0C99CDB12267C222F44E05937233AC6",
     "comment": "",
     "img": "https://i.imgur.com/u2kp8fc.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックレッド"
   },
   {
@@ -50,7 +52,9 @@
     "qr": "54A303043A43E967FFFAF81E64E19825DE6ABE4B8EAF536059D6",
     "comment": "",
     "img": "https://i.imgur.com/d3VQoZf.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックブラック"
   },
   {
@@ -85,7 +89,9 @@
     "qr": "54A3031081AB4D99F29F2D35E50071F6203A7781EC91234BB440",
     "comment": "",
     "img": "https://i.imgur.com/SaZa6G2.png",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックピンク"
   },
   {
@@ -181,7 +187,8 @@
     "comment": "",
     "img": "https://i.imgur.com/DQGvVnl.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "プリマジチェック"
     ],
     "coordinate": "プリマジチェックブラック"
   },
@@ -192,7 +199,9 @@
     "qr": "54A303EB6BD45610A1150122EAB5C4F9308E719AB4F602E86F81",
     "comment": "",
     "img": "https://i.imgur.com/bdUkOh1.jpg",
-    "tags": [],
+    "tags": [
+      "クリスマスベル"
+    ],
     "coordinate": "クリスマスベルピンク"
   }
 ]
