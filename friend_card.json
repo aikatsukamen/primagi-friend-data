@@ -7,7 +7,8 @@
     "comment": "",
     "img": "https://i.imgur.com/ttnHzTB.jpg",
     "tags": [
-      "スカート"
+      "スカート",
+      "キラパワ"
     ],
     "coordinate": "キラパワサニーキラリ"
   },
@@ -1283,7 +1284,9 @@
     "qr": "54A303B4BA798FD41FB89BF3848D31B58605D9119A17D3AF6949",
     "comment": "",
     "img": "https://i.imgur.com/3Qm6qGP.png",
-    "tags": [],
+    "tags": [
+      "パステルマカロン"
+    ],
     "coordinate": "パステルマカロンオレンジ"
   },
   {
@@ -1428,6 +1431,18 @@
       "アドベンチャー"
     ],
     "coordinate": "アドベンチャー"
+  },
+  {
+    "timestamp": "2022-07-15T13:10:58.010Z",
+    "name": "まだら",
+    "username": "あめ",
+    "qr": "54A3032AF0A163462E0068373F2C908E757192BAF2D8E62BD8C5",
+    "comment": "",
+    "img": "https://i.imgur.com/HiTcND9.jpg",
+    "tags": [
+      "レースヒーロー"
+    ],
+    "coordinate": "レースヒーローパープル"
   },
   {
     "timestamp": "2022-06-08T17:06:46.789Z",
