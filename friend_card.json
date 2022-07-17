@@ -234,7 +234,9 @@
     "qr": "54A303F96B71A27D6E1A17A4DAAF9BDB6B242DE42B506369E62B",
     "comment": "",
     "img": "https://i.imgur.com/MsTlWnI.jpg",
-    "tags": [],
+    "tags": [
+      "ロングカラー"
+    ],
     "coordinate": "ロングカラー"
   },
   {
@@ -1477,8 +1479,22 @@
     "qr": "54A3030D09B2009C275B74AA618BE42279873F305EDBC3A07037",
     "comment": "",
     "img": "https://i.imgur.com/9GtEHFo.jpg",
-    "tags": [],
+    "tags": [
+      "ロングカラー"
+    ],
     "coordinate": "ロングカラーピンク"
+  },
+  {
+    "timestamp": "2022-07-17T07:51:28.653Z",
+    "name": "まだら",
+    "username": "あめ",
+    "qr": "54A30383402911AAFFAF6CA790F32556E6CDAB82510EBDB16817",
+    "comment": "",
+    "img": "https://i.imgur.com/iF3fBKJ.jpg",
+    "tags": [
+      "メルヘンカルーセル"
+    ],
+    "coordinate": "メルヘンカルーセルレッド"
   },
   {
     "timestamp": "2022-06-08T17:06:46.789Z",
