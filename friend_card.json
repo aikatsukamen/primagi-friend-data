@@ -192,7 +192,9 @@
     "qr": "54A3036233F69E3F3ECE51763BE176D2ADFDF166BFB6226AE13C",
     "comment": "",
     "img": "https://i.imgur.com/IqSdsJV.jpg",
-    "tags": [],
+    "tags": [
+      "サイバーゲーム"
+    ],
     "coordinate": "サイバーゲーム"
   },
   {
@@ -1518,7 +1520,7 @@
     "username": "あめ",
     "qr": "54A3031786097808A4353D21C44317F683EBEF76B9D552F565A8",
     "comment": "",
-    "img": "https://i.imgur.com/qF9R5up.jpg",
+    "img": "https://i.imgur.com/yTk2COj.jpg",
     "tags": [
       "ホーリィモノクローム"
     ],
@@ -1530,11 +1532,23 @@
     "username": "あめ",
     "qr": "54A30372F7B79008846C86A534E6A3519990CE8CCDE6A39958B7",
     "comment": "",
-    "img": "https://i.imgur.com/IhW4x9u.jpg",
+    "img": "https://i.imgur.com/pdFqELu.jpg",
     "tags": [
       "チャイナネオン"
     ],
     "coordinate": "チャイナネオンホワイト"
+  },
+  {
+    "timestamp": "2022-07-18T07:47:36.716Z",
+    "name": "まだら",
+    "username": "あめ",
+    "qr": "54A3031286F4FCE1EC0621B0AB45444099A431C4226014E13552",
+    "comment": "",
+    "img": "https://i.imgur.com/31x2CdN.jpg",
+    "tags": [
+      "サイバーゲーム"
+    ],
+    "coordinate": "サイバーゲーム"
   },
   {
     "timestamp": "2022-06-08T17:06:46.789Z",
