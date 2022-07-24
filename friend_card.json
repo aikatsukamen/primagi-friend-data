@@ -204,7 +204,9 @@
     "qr": "54A303E1384E2A253444508A5E361D3DE8429D9E91FAD6C1ADF6",
     "comment": "即興コーデ",
     "img": "https://i.imgur.com/KnblXeu.jpg",
-    "tags": [],
+    "tags": [
+      "オリコ"
+    ],
     "coordinate": "ダンシングハーネススター(オリコ)"
   },
   {
@@ -358,6 +360,18 @@
     "coordinate": "チェリークリーム"
   },
   {
+    "timestamp": "2022-07-24T11:25:22.798Z",
+    "name": "こなみ",
+    "username": "あめ",
+    "qr": "54A3039FA13021CC6A64ED019EF9FC22E99AAA6885BA3B53A40E",
+    "comment": "あざとい",
+    "img": "https://i.imgur.com/p92VwKw.jpg",
+    "tags": [
+      "オリコ"
+    ],
+    "coordinate": "キルティングハートピンク＋フラワー"
+  },
+  {
     "timestamp": "2022-06-08T16:54:30.145Z",
     "name": "これん",
     "username": "とびおじ",
@@ -465,7 +479,8 @@
     "img": "https://i.imgur.com/QVoX4JO.jpg",
     "tags": [
       "オレンジ",
-      "サングラス"
+      "サングラス",
+      "オリコ"
     ],
     "coordinate": "ポップ系オリコ"
   },
@@ -488,7 +503,9 @@
     "qr": "54A30388E41D54D1D992621254D550B5CEC871AF721D8C067C1E",
     "comment": "どうしてもサングラスがかけたかった",
     "img": "https://i.imgur.com/btMHZAs.jpg",
-    "tags": [],
+    "tags": [
+      "オリコ"
+    ],
     "coordinate": "ダンシングゼブラ基調オリコ"
   },
   {
