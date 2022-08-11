@@ -559,7 +559,9 @@
     "qr": "54A3034943E524C52E4307BB6076E14E8041BC50E075654E8889",
     "comment": "",
     "img": "https://i.imgur.com/k3L0D4P.jpg",
-    "tags": [],
+    "tags": [
+      "ショコラティエ"
+    ],
     "coordinate": "ショコラティエミント"
   },
   {
@@ -1257,7 +1259,9 @@
     "qr": "54A30316D2120703793F26B3B9670936E4A82274830DE9769F80",
     "comment": "",
     "img": "https://i.imgur.com/QIfHEi7.jpg",
-    "tags": [],
+    "tags": [
+      "ショコラティエ"
+    ],
     "coordinate": "ショコラティエ"
   },
   {
@@ -1267,7 +1271,9 @@
     "qr": "54A303F9AC243A9B3C4160041CDA6345BDB2E77B72E563E14F14",
     "comment": "",
     "img": "https://i.imgur.com/CDs9zFY.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックピンク"
   },
   {
