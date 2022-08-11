@@ -134,7 +134,8 @@
     "img": "https://files.kirakiratter.com/media_attachments/files/002/707/476/original/404dec4a1efd45c7.jpeg",
     "tags": [
       "花",
-      "白"
+      "白",
+      "フラワーパターン"
     ],
     "coordinate": "フラワーパターン"
   },
@@ -449,7 +450,8 @@
     "comment": "",
     "img": "https://i.imgur.com/KC48GjE.jpg",
     "tags": [
-      "デカリボン"
+      "デカリボン",
+      "プリマジチェック"
     ],
     "coordinate": "プリマジチェックパープル"
   },
@@ -460,7 +462,9 @@
     "qr": "54A303C837182EE03BE5B804EBF17B52106300D46FA8A6ACE80E",
     "comment": "",
     "img": "https://i.imgur.com/JDsXPqd.jpg",
-    "tags": [],
+    "tags": [
+      "ドレッシーピアノ"
+    ],
     "coordinate": "ドレッシーピアノ"
   },
   {
@@ -470,7 +474,9 @@
     "qr": "54A30330F130D0161646AA43F173EED8B8924C562A1E7DBB060A",
     "comment": "",
     "img": "https://i.imgur.com/HMHYlSY.jpg",
-    "tags": [],
+    "tags": [
+      "メルヘンカルーセル"
+    ],
     "coordinate": "メルヘンカルーセル"
   },
   {
@@ -480,7 +486,9 @@
     "qr": "54A3030E2D9506A85B5B9448A6DD080BABCD0A7D9B3ECEFDF53A",
     "comment": "",
     "img": "https://i.imgur.com/YSsZoje.jpg",
-    "tags": [],
+    "tags": [
+      "フラワーパターン"
+    ],
     "coordinate": "フラワーパターンブルー"
   },
   {
@@ -491,7 +499,8 @@
     "comment": "",
     "img": "https://i.imgur.com/sbsXk4G.jpg",
     "tags": [
-      "くまみみ"
+      "くまみみ",
+      "くまくまパーク"
     ],
     "coordinate": "くまくまパークピンク"
   },
@@ -502,7 +511,9 @@
     "qr": "54A303B1771ECA9EA50545CEB94184492E5EAEA51ADD7C9A407C",
     "comment": "",
     "img": "https://i.imgur.com/51Iv2PN.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ダークネスエレメンツ"
   },
   {
@@ -512,7 +523,9 @@
     "qr": "54A30376C994D9115C86D44A07B8605012AFE253822CD8CE442C",
     "comment": "",
     "img": "https://i.imgur.com/nHA9MFD.jpg",
-    "tags": [],
+    "tags": [
+      "グレースドット"
+    ],
     "coordinate": "グレースドットパープル"
   },
   {
@@ -522,7 +535,9 @@
     "qr": "54A303BA7FF9F34E00B8555E25F9826CA4DD8D71D472450A5CC4",
     "comment": "",
     "img": "https://i.imgur.com/iEpSeEq.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ブライトネスエレメンツ"
   },
   {
@@ -532,7 +547,9 @@
     "qr": "54A30398341A380301DF3A81DAAF86E1E511B286B905F33F57E9",
     "comment": "",
     "img": "https://i.imgur.com/eHgpNBS.jpg",
-    "tags": [],
+    "tags": [
+      "ウエディングローズ"
+    ],
     "coordinate": "ウェディングローズホワイト"
   },
   {
@@ -542,7 +559,9 @@
     "qr": "54A3034943E524C52E4307BB6076E14E8041BC50E075654E8889",
     "comment": "",
     "img": "https://i.imgur.com/k3L0D4P.jpg",
-    "tags": [],
+    "tags": [
+      "ショコラティエ"
+    ],
     "coordinate": "ショコラティエミント"
   },
   {
@@ -1158,9 +1177,22 @@
     "comment": "",
     "img": "https://i.imgur.com/GNyAbDY.jpg",
     "tags": [
-      "くまみみ"
+      "くまみみ",
+      "くまくまパーク"
     ],
     "coordinate": "くまくまパークピンク"
+  },
+  {
+    "timestamp": "2022-08-11T12:42:16.909Z",
+    "name": "そいる",
+    "username": "とびおじ",
+    "qr": "54A30304D5AD31E4D2A891F99FF3AE62894A99DE864F81643B7C",
+    "comment": "",
+    "img": "https://i.imgur.com/quVyAvT.jpg",
+    "tags": [
+      "くまみみ"
+    ],
+    "coordinate": "あおにさんくまくまコーデ"
   },
   {
     "timestamp": "2022-08-12T12:00:41.000Z",
@@ -1169,7 +1201,9 @@
     "qr": "54A303F80503B8BE8D8806CF6313970C315432133F5DE1C8ECC8",
     "comment": "",
     "img": "https://i.imgur.com/3wUdhOr.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ダークネスエレメンツ"
   },
   {
@@ -1179,7 +1213,9 @@
     "qr": "54A303582AD09463838A948B33F604DE537E70E310EFA1DDD247",
     "comment": "",
     "img": "https://i.imgur.com/g55SMDZ.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ブライトネスエレメンツ"
   },
   {
@@ -1189,7 +1225,9 @@
     "qr": "54A30388FF7FA462315BA2262FC0927BA215B946CF1EF602F24D",
     "comment": "",
     "img": "https://i.imgur.com/zB1unqu.jpg",
-    "tags": [],
+    "tags": [
+      "ウエディングローズ"
+    ],
     "coordinate": "ウェディングローズホワイト"
   },
   {
@@ -1209,7 +1247,9 @@
     "qr": "54A30316D2120703793F26B3B9670936E4A82274830DE9769F80",
     "comment": "",
     "img": "https://i.imgur.com/QIfHEi7.jpg",
-    "tags": [],
+    "tags": [
+      "ショコラティエ"
+    ],
     "coordinate": "ショコラティエ"
   },
   {
@@ -1219,7 +1259,9 @@
     "qr": "54A303F9AC243A9B3C4160041CDA6345BDB2E77B72E563E14F14",
     "comment": "",
     "img": "https://i.imgur.com/CDs9zFY.jpg",
-    "tags": [],
+    "tags": [
+      "プリマジチェック"
+    ],
     "coordinate": "プリマジチェックピンク"
   },
   {
@@ -1838,7 +1880,8 @@
     "img": "https://i.imgur.com/Cn81kO0.jpg",
     "tags": [
       "ブルー",
-      "スカート"
+      "スカート",
+      "フラワーパターン"
     ],
     "coordinate": "フラワーパターンブルー"
   },
