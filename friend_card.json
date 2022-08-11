@@ -511,7 +511,9 @@
     "qr": "54A303B1771ECA9EA50545CEB94184492E5EAEA51ADD7C9A407C",
     "comment": "",
     "img": "https://i.imgur.com/51Iv2PN.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ダークネスエレメンツ"
   },
   {
@@ -521,7 +523,9 @@
     "qr": "54A30376C994D9115C86D44A07B8605012AFE253822CD8CE442C",
     "comment": "",
     "img": "https://i.imgur.com/nHA9MFD.jpg",
-    "tags": [],
+    "tags": [
+      "グレースドット"
+    ],
     "coordinate": "グレースドットパープル"
   },
   {
@@ -531,7 +535,9 @@
     "qr": "54A303BA7FF9F34E00B8555E25F9826CA4DD8D71D472450A5CC4",
     "comment": "",
     "img": "https://i.imgur.com/iEpSeEq.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ブライトネスエレメンツ"
   },
   {
@@ -1181,7 +1187,9 @@
     "qr": "54A303F80503B8BE8D8806CF6313970C315432133F5DE1C8ECC8",
     "comment": "",
     "img": "https://i.imgur.com/3wUdhOr.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ダークネスエレメンツ"
   },
   {
@@ -1191,7 +1199,9 @@
     "qr": "54A303582AD09463838A948B33F604DE537E70E310EFA1DDD247",
     "comment": "",
     "img": "https://i.imgur.com/g55SMDZ.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "ブライトネスエレメンツ"
   },
   {
@@ -1203,6 +1213,16 @@
     "img": "https://i.imgur.com/zB1unqu.jpg",
     "tags": [],
     "coordinate": "ウェディングローズホワイト"
+  },
+  {
+    "timestamp": "2022-08-11T13:04:50.057Z",
+    "name": "そいる",
+    "username": "とびおじ",
+    "qr": "54A3031FBD4ED15B34A71577E50276EFBB53B3071E604A23DE88",
+    "comment": "",
+    "img": "https://i.imgur.com/rVKLzpJ.jpg",
+    "tags": [],
+    "coordinate": "ガーリーニット"
   },
   {
     "timestamp": "2022-06-08T17:03:28.097Z",
