@@ -547,7 +547,9 @@
     "qr": "54A30398341A380301DF3A81DAAF86E1E511B286B905F33F57E9",
     "comment": "",
     "img": "https://i.imgur.com/eHgpNBS.jpg",
-    "tags": [],
+    "tags": [
+      "ウエディングローズ"
+    ],
     "coordinate": "ウェディングローズホワイト"
   },
   {
@@ -1211,7 +1213,9 @@
     "qr": "54A30388FF7FA462315BA2262FC0927BA215B946CF1EF602F24D",
     "comment": "",
     "img": "https://i.imgur.com/zB1unqu.jpg",
-    "tags": [],
+    "tags": [
+      "ウエディングローズ"
+    ],
     "coordinate": "ウェディングローズホワイト"
   },
   {
@@ -1223,6 +1227,16 @@
     "img": "https://i.imgur.com/rVKLzpJ.jpg",
     "tags": [],
     "coordinate": "ガーリーニット"
+  },
+  {
+    "timestamp": "2022-08-11T13:05:34.075Z",
+    "name": "そいる",
+    "username": "とびおじ",
+    "qr": "54A30316D2120703793F26B3B9670936E4A82274830DE9769F80",
+    "comment": "",
+    "img": "https://i.imgur.com/QIfHEi7.jpg",
+    "tags": [],
+    "coordinate": "ショコラティエ"
   },
   {
     "timestamp": "2022-06-08T17:03:28.097Z",
