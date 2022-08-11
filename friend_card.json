@@ -492,77 +492,16 @@
     "coordinate": "フラワーパターンブルー"
   },
   {
-    "timestamp": "2022-08-11T12:00:40.000Z",
+    "timestamp": "2022-08-11T12:51:14.872Z",
     "name": "これん",
     "username": "とびおじ",
     "qr": "54A303DF5910F8ED94243D7C2D1A2276A3564D8270DAB19C6830",
     "comment": "",
     "img": "https://i.imgur.com/sbsXk4G.jpg",
     "tags": [
-      "くまみみ",
-      "くまくまパーク"
+      "くまみみ"
     ],
     "coordinate": "くまくまパークピンク"
-  },
-  {
-    "timestamp": "2022-08-13T12:00:42.000Z",
-    "name": "これん",
-    "username": "とびおじ",
-    "qr": "54A303B1771ECA9EA50545CEB94184492E5EAEA51ADD7C9A407C",
-    "comment": "",
-    "img": "https://i.imgur.com/51Iv2PN.jpg",
-    "tags": [
-      "エレメンツコーデ"
-    ],
-    "coordinate": "ダークネスエレメンツ"
-  },
-  {
-    "timestamp": "2022-08-14T12:00:43.000Z",
-    "name": "これん",
-    "username": "とびおじ",
-    "qr": "54A30376C994D9115C86D44A07B8605012AFE253822CD8CE442C",
-    "comment": "",
-    "img": "https://i.imgur.com/nHA9MFD.jpg",
-    "tags": [
-      "グレースドット"
-    ],
-    "coordinate": "グレースドットパープル"
-  },
-  {
-    "timestamp": "2022-08-15T12:00:44.000Z",
-    "name": "これん",
-    "username": "とびおじ",
-    "qr": "54A303BA7FF9F34E00B8555E25F9826CA4DD8D71D472450A5CC4",
-    "comment": "",
-    "img": "https://i.imgur.com/iEpSeEq.jpg",
-    "tags": [
-      "エレメンツコーデ"
-    ],
-    "coordinate": "ブライトネスエレメンツ"
-  },
-  {
-    "timestamp": "2022-08-16T12:00:45.000Z",
-    "name": "これん",
-    "username": "とびおじ",
-    "qr": "54A30398341A380301DF3A81DAAF86E1E511B286B905F33F57E9",
-    "comment": "",
-    "img": "https://i.imgur.com/eHgpNBS.jpg",
-    "tags": [
-      "ウエディングローズ"
-    ],
-    "coordinate": "ウェディングローズホワイト"
-  },
-  {
-    "timestamp": "2022-08-21T12:00:50.000Z",
-    "name": "これん",
-    "username": "とびおじ",
-    "qr": "54A3034943E524C52E4307BB6076E14E8041BC50E075654E8889",
-    "comment": "",
-    "img": "https://i.imgur.com/k3L0D4P.jpg",
-    "tags": [
-      "ショコラティエ"
-    ],
-    "coordinate": "ショコラティエミント"
   },
   {
     "timestamp": "2022-06-08T16:55:54.911Z",
@@ -1193,76 +1132,6 @@
       "くまみみ"
     ],
     "coordinate": "あおにさんくまくまコーデ"
-  },
-  {
-    "timestamp": "2022-08-12T12:00:41.000Z",
-    "name": "そいる",
-    "username": "とびおじ",
-    "qr": "54A303F80503B8BE8D8806CF6313970C315432133F5DE1C8ECC8",
-    "comment": "",
-    "img": "https://i.imgur.com/3wUdhOr.jpg",
-    "tags": [
-      "エレメンツコーデ"
-    ],
-    "coordinate": "ダークネスエレメンツ"
-  },
-  {
-    "timestamp": "2022-08-17T12:00:46.000Z",
-    "name": "そいる",
-    "username": "とびおじ",
-    "qr": "54A303582AD09463838A948B33F604DE537E70E310EFA1DDD247",
-    "comment": "",
-    "img": "https://i.imgur.com/g55SMDZ.jpg",
-    "tags": [
-      "エレメンツコーデ"
-    ],
-    "coordinate": "ブライトネスエレメンツ"
-  },
-  {
-    "timestamp": "2022-08-18T12:00:47.000Z",
-    "name": "そいる",
-    "username": "とびおじ",
-    "qr": "54A30388FF7FA462315BA2262FC0927BA215B946CF1EF602F24D",
-    "comment": "",
-    "img": "https://i.imgur.com/zB1unqu.jpg",
-    "tags": [
-      "ウエディングローズ"
-    ],
-    "coordinate": "ウェディングローズホワイト"
-  },
-  {
-    "timestamp": "2022-08-19T12:00:48.000Z",
-    "name": "そいる",
-    "username": "とびおじ",
-    "qr": "54A3031FBD4ED15B34A71577E50276EFBB53B3071E604A23DE88",
-    "comment": "",
-    "img": "https://i.imgur.com/rVKLzpJ.jpg",
-    "tags": [],
-    "coordinate": "ガーリーニット"
-  },
-  {
-    "timestamp": "2022-08-20T12:00:49.000Z",
-    "name": "そいる",
-    "username": "とびおじ",
-    "qr": "54A30316D2120703793F26B3B9670936E4A82274830DE9769F80",
-    "comment": "",
-    "img": "https://i.imgur.com/QIfHEi7.jpg",
-    "tags": [
-      "ショコラティエ"
-    ],
-    "coordinate": "ショコラティエ"
-  },
-  {
-    "timestamp": "2022-08-22T12:00:51.000Z",
-    "name": "そいる",
-    "username": "とびおじ",
-    "qr": "54A303F9AC243A9B3C4160041CDA6345BDB2E77B72E563E14F14",
-    "comment": "",
-    "img": "https://i.imgur.com/CDs9zFY.jpg",
-    "tags": [
-      "プリマジチェック"
-    ],
-    "coordinate": "プリマジチェックピンク"
   },
   {
     "timestamp": "2022-06-08T17:03:28.097Z",
