@@ -537,7 +537,9 @@
     "qr": "54A3032A09886D3F961B01DEDB290F9A09BD550BE2F1C2F1E210",
     "comment": "",
     "img": "https://i.imgur.com/AIDYQwQ.jpg",
-    "tags": [],
+    "tags": [
+      "ベルサイユガーデン"
+    ],
     "coordinate": "ベルサイユガーデン"
   },
   {
@@ -2526,7 +2528,7 @@
     "comment": "",
     "img": "https://i.imgur.com/XUwL1fh.jpg",
     "tags": [
-      "ショコラティ"
+      "ショコラティエ"
     ],
     "coordinate": "ショコラティエストロベリー"
   },
