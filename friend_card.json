@@ -183,7 +183,9 @@
     "qr": "54A30384C68257267E2267A0B7708F0600BFF290AC68E1E11F96",
     "comment": "",
     "img": "https://i.imgur.com/CZDFn03.png",
-    "tags": [],
+    "tags": [
+      "チャイナネオン"
+    ],
     "coordinate": "チャイナネオンホワイト"
   },
   {
@@ -213,7 +215,9 @@
     "qr": "54A303EBB7FCCAC5531D68C5B0FE8A56EDE3969FF46BDAD3E75C",
     "comment": "",
     "img": "https://i.imgur.com/rLowo0j.png",
-    "tags": [],
+    "tags": [
+      "ヴァンパイアガール"
+    ],
     "coordinate": "ヴァンパイアガールホワイト"
   },
   {
@@ -233,7 +237,9 @@
     "qr": "54A30312DD087F7ADDA0DBDFB4F4FA1CEAB3A93F0B435E519AFB",
     "comment": "",
     "img": "https://i.imgur.com/R0cBPTB.jpg",
-    "tags": [],
+    "tags": [
+      "グレースドット"
+    ],
     "coordinate": "グレースドットパープル"
   },
   {
@@ -253,7 +259,9 @@
     "qr": "54A30371DCD1B8A11AFF3A23E5FD63890CC9BD43714BB54B1C7C",
     "comment": "",
     "img": "https://i.imgur.com/NdRvINz.jpg",
-    "tags": [],
+    "tags": [
+      "ハッピーセーラー"
+    ],
     "coordinate": "ハッピーセーラーグリーン"
   },
   {
@@ -263,7 +271,9 @@
     "qr": "54A303A176B00EF7D1421203C5A274B721E2F7C2C0B153791FFE",
     "comment": "",
     "img": "https://i.imgur.com/Atjjn1Y.jpg",
-    "tags": [],
+    "tags": [
+      "マーチング"
+    ],
     "coordinate": "マーチングパープル"
   },
   {
