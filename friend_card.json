@@ -171,8 +171,20 @@
     "qr": "54A30391A6C9FD68A06CDACFFAC6210B3A8A69ECF894698739DE",
     "comment": "",
     "img": "https://i.imgur.com/jNpLd1V.jpg",
-    "tags": [],
+    "tags": [
+      "メモリージュエル"
+    ],
     "coordinate": "メモリージュエルパール"
+  },
+  {
+    "timestamp": "2022-08-13T02:20:46.341Z",
+    "name": "かや",
+    "username": "KAYAVI",
+    "qr": "54A30384C68257267E2267A0B7708F0600BFF290AC68E1E11F96",
+    "comment": "",
+    "img": "https://i.imgur.com/CZDFn03.png",
+    "tags": [],
+    "coordinate": "チャイナネオンホワイト"
   },
   {
     "timestamp": "2022-06-08T17:05:35.916Z",
