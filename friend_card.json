@@ -373,7 +373,9 @@
     "qr": "54A303BE08341EAF0A65B21F948BA4FC181DF5B9C35B83294F76",
     "comment": "",
     "img": "https://i.imgur.com/ctlEUPw.jpg",
-    "tags": [],
+    "tags": [
+      "スクール"
+    ],
     "coordinate": "まつりスクール"
   },
   {
@@ -383,7 +385,9 @@
     "qr": "54A303DF2939D900A802B1820195AA0A58BEEA851C0B8A53A6AE",
     "comment": "",
     "img": "https://i.imgur.com/sWP7Z01.jpg",
-    "tags": [],
+    "tags": [
+      "エレメンツコーデ"
+    ],
     "coordinate": "アクアエレメンツ"
   },
   {
@@ -1372,7 +1376,8 @@
     "comment": "",
     "img": "https://i.imgur.com/m8juiBw.jpg",
     "tags": [
-      "ベレー帽"
+      "ベレー帽",
+      "スクール"
     ],
     "coordinate": "れもんスクール"
   },
@@ -2680,7 +2685,9 @@
     "qr": "54A30377372A058E265992B7934230BEEEB5833680B8A2667371",
     "comment": "",
     "img": "https://i.imgur.com/mNFDEKV.jpg",
-    "tags": [],
+    "tags": [
+      "スクール"
+    ],
     "coordinate": "ひなスクール"
   },
   {
