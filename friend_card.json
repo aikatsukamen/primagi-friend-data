@@ -881,7 +881,8 @@
     "img": "https://i.imgur.com/Xen4lf6.jpg",
     "tags": [
       "イエロー",
-      "スイーツ"
+      "スイーツ",
+      "エンジェルアイス"
     ],
     "coordinate": "エンジェルアイスイエロー"
   },
@@ -946,7 +947,8 @@
     "img": "https://i.imgur.com/drOynQX.jpg",
     "tags": [
       "セーラー",
-      "ブルー"
+      "ブルー",
+      "ハッピーセーラー"
     ],
     "coordinate": "ハッピーセーラーブルー"
   },
@@ -2665,7 +2667,9 @@
     "qr": "54A3033D0E09B4FE8474E027E723BA3E93A8CAC437205A92425B",
     "comment": "",
     "img": "https://i.imgur.com/m4zL466.jpg",
-    "tags": [],
+    "tags": [
+      "エンジェルアイス"
+    ],
     "coordinate": "エンジェルアイスオレンジ"
   },
   {
