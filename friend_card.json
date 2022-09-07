@@ -516,7 +516,9 @@
     "qr": "54A3033C3C0DBA987869BDAA4C8D4E53AC12D1A60424FBA23C8D",
     "comment": "",
     "img": "https://i.imgur.com/1npI3C4.jpg",
-    "tags": [],
+    "tags": [
+      "スペーストラベラー"
+    ],
     "coordinate": "スペーストラベラーマーズ"
   },
   {
@@ -536,7 +538,9 @@
     "qr": "54A3034F72F068645BCCC12412472EFDB1E0C0C640D5C630AC59",
     "comment": "",
     "img": "https://i.imgur.com/UaZPdfC.jpg",
-    "tags": [],
+    "tags": [
+      "はんなりゆかた"
+    ],
     "coordinate": "はんなりゆかたふじいろ"
   },
   {
@@ -545,7 +549,7 @@
     "username": "ぎん",
     "qr": "54A3039D465D96580354961546BBEE8C5359F39BE67BF0C8A595",
     "comment": "",
-    "img": "",
+    "img": "https://i.imgur.com/VXv5mlX.jpg",
     "tags": [
       "ハードチェック"
     ],
