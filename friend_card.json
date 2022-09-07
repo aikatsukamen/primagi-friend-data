@@ -545,11 +545,23 @@
     "username": "ぎん",
     "qr": "54A3039D465D96580354961546BBEE8C5359F39BE67BF0C8A595",
     "comment": "",
-    "img": "https://i.imgur.com/VXv5mlX.jpg",
+    "img": "",
     "tags": [
       "ハードチェック"
     ],
     "coordinate": "ハードチェックオレンジ"
+  },
+  {
+    "timestamp": "2022-09-07T11:05:47.161Z",
+    "name": "ぎん",
+    "username": "ぎん",
+    "qr": "54A303FA8411E129B50E92588AFFD7E99A78FE4EB7BB9DC9D8BB",
+    "comment": "",
+    "img": "https://i.imgur.com/C8bUw6V.jpg",
+    "tags": [
+      "プリマジチェック"
+    ],
+    "coordinate": "プリマジチェックイエロー"
   },
   {
     "timestamp": "2022-06-13T15:50:30.238Z",
