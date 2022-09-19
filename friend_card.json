@@ -109,6 +109,20 @@
     "coordinate": "メモリージュエルアイシクル"
   },
   {
+    "timestamp": "2022-09-19T13:28:14.183Z",
+    "name": "あいり",
+    "username": "しちみ",
+    "qr": "54A303E031804022884CDE2B3A0259B8532BA544E66308AD34A2",
+    "comment": "",
+    "img": "",
+    "tags": [
+      "ホーリィモノクローム",
+      "パープル",
+      "紫"
+    ],
+    "coordinate": "ホーリィモノクロームパープル"
+  },
+  {
     "timestamp": "2022-06-08T17:08:58.987Z",
     "name": "かや",
     "username": "KayaVI",
@@ -1738,7 +1752,7 @@
     "username": "しちみ",
     "qr": "54A303EDFDABBDCFE475C825D4203D30FE053DAB0668582AC50C",
     "comment": "",
-    "img": "",
+    "img": "https://i.imgur.com/UPhXCTG.jpg",
     "tags": [
       "ハロウィンフリル"
     ],
@@ -1750,7 +1764,7 @@
     "username": "しちみ",
     "qr": "54A303AB91D5BDAE26A117B6487CF41A834066446B5C95328E0B",
     "comment": "",
-    "img": "",
+    "img": "https://i.imgur.com/9pR2Xcf.jpg",
     "tags": [
       "すずらんかれん",
       "レッド",
@@ -2600,7 +2614,7 @@
     "username": "しちみ",
     "qr": "54A3039EC0C8F1EDFE0623C85CBC4C0CB9CF4B353531223FB66A",
     "comment": "",
-    "img": "",
+    "img": "https://i.imgur.com/S64UWBt.jpg",
     "tags": [
       "ハロウィンフリル"
     ],
