@@ -241,5 +241,17 @@
       "クリスマスベル"
     ],
     "coordinate": "クリスマスベルピンク"
+  },
+  {
+    "timestamp": "2022-09-22T08:33:14.011Z",
+    "name": "アリスドール",
+    "username": "てゃん",
+    "qr": "54A3038FC8FDA85777E48D56FEC80EC77D5723C384A8B893C209",
+    "comment": "かわいい",
+    "img": "https://i.imgur.com/FdCiDFR.jpg",
+    "tags": [
+      "メルヘンカルーセル"
+    ],
+    "coordinate": "メルヘンカルーセルレッド"
   }
 ]
