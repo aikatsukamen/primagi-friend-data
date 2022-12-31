@@ -415,7 +415,7 @@
     "username": "KayaVI",
     "qr": "54A303C3C8DDD26B87FA3E6B9BEB9B9BFE966371AF9F3A891E24",
     "comment": "",
-    "img": "https://i.imgur.com/UEmXTf4.png",
+    "img": "https://i.imgur.com/n29sHrJ.jpg",
     "tags": [
       "スカート",
       "クリスマスベル"
@@ -428,9 +428,10 @@
     "username": "KayaVI",
     "qr": "54A30318F7214BD3643261A4ACC6FFDBD1F53A8F5BA74CDB8104",
     "comment": "",
-    "img": "https://i.imgur.com/oaUzRM1.png",
+    "img": "https://i.imgur.com/UTivYsV.jpg",
     "tags": [
-      "プリマジチェック"
+      "プリマジチェック",
+      "みどり"
     ],
     "coordinate": "プリマジチェックブルー"
   },
@@ -900,7 +901,7 @@
     "username": "KAYAVI",
     "qr": "54A3032014C3B9272451346959A77353DC7F653EE6D4F6642B18",
     "comment": "",
-    "img": "https://i.imgur.com/5SYtYaT.jpg",
+    "img": "https://i.imgur.com/C49y3BU.jpg",
     "tags": [
       "くれないのローズクイーン",
       "あか",
@@ -908,6 +909,18 @@
       "ゴシック"
     ],
     "coordinate": "くれないのローズクイーン"
+  },
+  {
+    "timestamp": "2022-12-31T18:57:52.440Z",
+    "name": "かや",
+    "username": "KAYAVI",
+    "qr": "54A303703CDCEF0576B358E386C3E1BC03967103429F486A53A3",
+    "comment": "",
+    "img": "https://files.kirakiratter.com/media_attachments/files/002/918/227/original/3b94c2639deab5b5.jpg",
+    "tags": [
+      "キラパワムーンユヅキ"
+    ],
+    "coordinate": "キラパワムーンユヅキ"
   },
   {
     "timestamp": "2022-06-08T17:05:35.916Z",
