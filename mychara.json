@@ -64,18 +64,6 @@
     "coordinate": "プリマジチェックシックブラック"
   },
   {
-    "timestamp": "2023-01-25T13:47:34.027Z",
-    "name": "しちみ",
-    "username": "しちみ",
-    "qr": "54A303260AFBD9C2528293258BB722EE70A1E1E2BF8944AB54F1",
-    "comment": "",
-    "img": "https://i.imgur.com/5Noyfcg.jpg",
-    "tags": [
-      "ペイントルック"
-    ],
-    "coordinate": "ペイントルック"
-  },
-  {
     "timestamp": "2022-06-08T17:04:42.016Z",
     "name": "つばめ",
     "username": "あおにつばめ",
@@ -94,6 +82,18 @@
     "img": "https://i.imgur.com/RIwxvqX.jpg",
     "tags": [],
     "coordinate": "あったかニットサンタ"
+  },
+  {
+    "timestamp": "2023-01-25T13:48:16.527Z",
+    "name": "なみこ",
+    "username": "しちみ",
+    "qr": "54A30387184302F3070D94849408C966674E94CAEA00021E4435",
+    "comment": "",
+    "img": "https://i.imgur.com/5Noyfcg.jpg",
+    "tags": [
+      "もふもふトナカイ"
+    ],
+    "coordinate": "もふもふトナカイ"
   },
   {
     "timestamp": "2022-09-20T04:55:53.142Z",
