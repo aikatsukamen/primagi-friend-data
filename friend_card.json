@@ -851,7 +851,7 @@
   {
     "timestamp": "2022-12-15T13:42:42.878Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A303A310692D4CC260475968A04D9AB556CA1527CA50CD6DCD",
     "comment": "お出かけコーデ",
     "img": "https://i.imgur.com/970OxDW.jpg",
@@ -866,7 +866,7 @@
   {
     "timestamp": "2022-12-20T16:34:28.436Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A3036C89A323AC5FC2B55A5F453A70A6F5BDE31C14B6F95D08",
     "comment": "",
     "img": "https://i.imgur.com/VTw2Km4.jpg",
@@ -881,7 +881,7 @@
   {
     "timestamp": "2022-12-31T17:55:56.535Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A3032934515A818502B03C58482914C935451C365CFCB44183",
     "comment": "日常生活でも着れるポップなコーデ",
     "img": "https://i.imgur.com/u4TMT10.jpg",
@@ -896,7 +896,7 @@
   {
     "timestamp": "2022-12-31T17:57:37.355Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A3037A3316D45ABC8DBE6AFD7DB81398120901B3EF6E662D10",
     "comment": "",
     "img": "https://i.imgur.com/h7cng8i.jpg",
@@ -910,7 +910,7 @@
   {
     "timestamp": "2022-12-31T18:15:30.998Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A3032014C3B9272451346959A77353DC7F653EE6D4F6642B18",
     "comment": "",
     "img": "https://i.imgur.com/C49y3BU.jpg",
@@ -925,7 +925,7 @@
   {
     "timestamp": "2022-12-31T18:57:52.440Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A303703CDCEF0576B358E386C3E1BC03967103429F486A53A3",
     "comment": "",
     "img": "https://files.kirakiratter.com/media_attachments/files/002/918/227/original/3b94c2639deab5b5.jpg",
@@ -937,7 +937,7 @@
   {
     "timestamp": "2023-01-07T17:10:22.664Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A3033EE13ECCD0A7AE3BE1F65293DDDC8E051F0D6C738F49AC",
     "comment": "あけましておめでとうございます㊗",
     "img": "https://i.imgur.com/2Ppttrw.jpg",
@@ -951,7 +951,7 @@
   {
     "timestamp": "2023-01-07T17:28:18.184Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A303E76546091F46A1250C364753105037E307E2691B20BA53",
     "comment": "",
     "img": "https://i.imgur.com/eQFTXf3.jpg",
@@ -965,7 +965,7 @@
   {
     "timestamp": "2023-01-12T17:31:24.657Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A303F540216C0E159F668DA2AC0EA38E8EBF7A5D102F0E066F",
     "comment": "",
     "img": "https://i.imgur.com/jcsEpgh.jpg",
@@ -979,7 +979,7 @@
   {
     "timestamp": "2023-01-12T17:37:37.820Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A303E6F9AE8545632BB6CDE0DA845EC8F0F835AAB4D9174734",
     "comment": "",
     "img": "https://i.imgur.com/97Gttzn.jpg",
@@ -993,7 +993,7 @@
   {
     "timestamp": "2023-01-12T17:44:02.369Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A30350BC969BFE93FEACAB56EA7B2B81003AB292D40F1C2819",
     "comment": "",
     "img": "https://i.imgur.com/qObeHkl.jpg",
@@ -1007,7 +1007,7 @@
   {
     "timestamp": "2023-01-12T17:52:36.892Z",
     "name": "かや",
-    "username": "KAYAVI",
+    "username": "KayaVI",
     "qr": "54A3036A79236B733B300A4A182538F71E8E42648857491CC39A",
     "comment": "",
     "img": "https://i.imgur.com/76lO6BU.jpg",
@@ -1170,7 +1170,8 @@
       "ハロウィンフリルパンプキン",
       "オレンジ",
       "かぼちゃ",
-      "ハロウイン"
+      "ハロウィン",
+      "ハロウィンフリル"
     ],
     "coordinate": "ハロウィンフリルパンプキン"
   },
