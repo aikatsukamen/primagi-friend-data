@@ -52,19 +52,6 @@
     "coordinate": "あおにさんくまくまコーデ"
   },
   {
-    "timestamp": "2023-03-05T15:10:39.735Z",
-    "name": "さとみ",
-    "username": "しちみ",
-    "qr": "54A3030048ED95C2636005D7CF34D26141D1AA12033AEFADDA16",
-    "comment": "無課金の姿",
-    "img": "https://i.imgur.com/Cbb84Il.jpg",
-    "tags": [
-      "フローラルバタフライ",
-      "ブルー"
-    ],
-    "coordinate": "フローラルバタフライブルー"
-  },
-  {
     "timestamp": "2022-08-18T15:00:04.029Z",
     "name": "さゆ",
     "username": "ぽん酢",
@@ -77,6 +64,18 @@
       "黒"
     ],
     "coordinate": "プリマジチェックシックブラック"
+  },
+  {
+    "timestamp": "2023-03-05T15:11:23.418Z",
+    "name": "しちみ",
+    "username": "しちみ",
+    "qr": "54A303B80B8DCE956F8932D3C49236E3754C622945A783562E7E",
+    "comment": "",
+    "img": "https://i.imgur.com/bbsCOKD.jpg",
+    "tags": [
+      "バレンタインクラシック"
+    ],
+    "coordinate": "バレンタインクラシック"
   },
   {
     "timestamp": "2022-06-08T17:04:42.016Z",
