@@ -253,14 +253,17 @@
     "coordinate": "クリスタルプリンセスひめめ"
   },
   {
-    "timestamp": "2023-04-14T14:10:45.871Z",
+    "timestamp": "2023-04-14T14:15:41.535Z",
     "name": "よな",
     "username": "よなてん",
-    "qr": "54A303DDDB8A13B0A3ECA909F589845B2AC576CE5630675357C5",
-    "comment": "まじめ",
-    "img": "https://i.imgur.io/QYQPT7x.jpg",
-    "tags": [],
-    "coordinate": "まじめポリス"
+    "qr": "54A303866C3C82EAE195647D6495E47880ABF860CCA2F231ADF9",
+    "comment": "",
+    "img": "https://i.imgur.io/S3huBDj.jpg",
+    "tags": [
+      "パンダチャイナ",
+      "ピンク"
+    ],
+    "coordinate": "パンダチャイナピンク"
   },
   {
     "timestamp": "2022-12-18T07:05:54.671Z",
