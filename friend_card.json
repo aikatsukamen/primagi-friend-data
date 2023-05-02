@@ -4290,6 +4290,19 @@
     "coordinate": "スターバンドガール"
   },
   {
+    "timestamp": "2023-05-02T13:21:49.852Z",
+    "name": "しちみ",
+    "username": "しちみ",
+    "qr": "54A3031C92C0C8E4B28D1BB205C3F4C8CC34074C03BE40AD647D",
+    "comment": "",
+    "img": "https://i.imgur.com/yhLaC4J.jpg",
+    "tags": [
+      "ハードチェック",
+      "オレンジ"
+    ],
+    "coordinate": "ハードチェックオレンジ"
+  },
+  {
     "timestamp": "2022-06-08T16:55:19.806Z",
     "name": "そいる",
     "username": "とびおじ",
@@ -5274,7 +5287,8 @@
     "img": "https://i.imgur.com/eub8Qa5.jpg",
     "tags": [
       "ショコラティエ",
-      "ベリーミルフィーユ"
+      "ベリーミルフィーユ",
+      "おおきい"
     ],
     "coordinate": "ベリーミルフィーユショコラティエ"
   },
