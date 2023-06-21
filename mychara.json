@@ -174,14 +174,16 @@
     "coordinate": "マカロンショコラベリー"
   },
   {
-    "timestamp": "2022-12-18T07:11:59.443Z",
+    "timestamp": "2023-06-21T03:43:40.730Z",
     "name": "てゃん",
     "username": "ミントてゃん",
-    "qr": "54A3032559143423CBE7BF8054E77064FB76D1179CD07736B7CE",
-    "comment": "てゃんサンタさん",
-    "img": "https://i.imgur.com/RIwxvqX.jpg",
-    "tags": [],
-    "coordinate": "あったかニットサンタ"
+    "qr": "54A303F60DBBE29A44AECDF3431469520410CA0D9ABC3CA26C73",
+    "comment": "シン・マイキャラ",
+    "img": "",
+    "tags": [
+      "ぴょっこりハーフツイン"
+    ],
+    "coordinate": "アメジストシンデレラ"
   },
   {
     "timestamp": "2023-06-15T14:27:11.043Z",
