@@ -717,19 +717,6 @@
     "coordinate": "PMステージマジシャンブルー"
   },
   {
-    "timestamp": "2023-06-23T12:56:48.301Z",
-    "name": "あいり",
-    "username": "しちみ",
-    "qr": "54A303A9C3EEE97AA52F9CBE96E8E78744FBA944FA82623F9FBD",
-    "comment": "",
-    "img": "https://i.imgur.com/hZX3vdQ.jpg",
-    "tags": [
-      "ハートフェザー",
-      "ハートフェザーパープル"
-    ],
-    "coordinate": "ハートフェザーパープル"
-  },
-  {
     "timestamp": "2023-06-23T12:57:39.806Z",
     "name": "あいり",
     "username": "しちみ",
@@ -6580,6 +6567,19 @@
       "おおきい"
     ],
     "coordinate": "エレクトロメロディ"
+  },
+  {
+    "timestamp": "2023-06-23T23:38:15.223Z",
+    "name": "なみこ",
+    "username": "しちみ",
+    "qr": "54A303A9C3EEE97AA52F9CBE96E8E78744FBA944FA82623F9FBD",
+    "comment": "YES I AM",
+    "img": "https://i.imgur.com/JNmdYix.jpg",
+    "tags": [
+      "PMステージマジシャンレッド",
+      "プリマジグミ"
+    ],
+    "coordinate": "PMステージマジシャンレッド"
   },
   {
     "timestamp": "2022-08-15T13:33:20.153Z",
