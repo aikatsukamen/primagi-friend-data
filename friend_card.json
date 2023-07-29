@@ -7626,7 +7626,8 @@
     "img": "https://i.imgur.com/qayzU1o.jpg",
     "tags": [
       "パンダチャイナ",
-      "パンダチャイナピンク"
+      "パンダチャイナピンク",
+      "おおきい"
     ],
     "coordinate": "パンダチャイナピンク"
   },
@@ -7639,7 +7640,8 @@
     "img": "https://i.imgur.com/FeRHMBP.jpg",
     "tags": [
       "ぺんぺんぺんぎん",
-      "ぺんぺんぺんぎんピンク"
+      "ぺんぺんぺんぎんピンク",
+      "おおきい"
     ],
     "coordinate": "ぺんぺんぺんぎんピンク"
   },
@@ -7655,6 +7657,20 @@
       "おおきい"
     ],
     "coordinate": "ハードチェック"
+  },
+  {
+    "timestamp": "2023-07-29T06:49:33.972Z",
+    "name": "なみこ",
+    "username": "しちみ",
+    "qr": "54A3038118E25AD94198F3D64A13BEF2A4CE2958DECCFF510F4D",
+    "comment": "",
+    "img": "https://i.imgur.com/PSVOAD3.jpg",
+    "tags": [
+      "レースヒーロー",
+      "レースヒーローラベンダーホワイト",
+      "おおきい"
+    ],
+    "coordinate": "レースヒーローラベンダーホワイト"
   },
   {
     "timestamp": "2022-08-15T13:33:20.153Z",
