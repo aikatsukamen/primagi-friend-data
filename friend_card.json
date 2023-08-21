@@ -3599,7 +3599,7 @@
     "username": "KayaVI",
     "qr": "54A303A9504E88328562B3029CC348ACE3D79D96525BB850B379",
     "comment": "",
-    "img": "https://files.kirakiratter.com/media_attachments/files/110/910/400/989/450/145/original/c353c977a6e34f9b.jpg",
+    "img": "https://kaya.mychara.xyz/images/20230818-0.jpg",
     "tags": [
       "しらゆきひめ",
       "きいろ",
@@ -3614,7 +3614,7 @@
     "username": "KayaVI",
     "qr": "54A30303DD877171869F32EC704A9C3A4765B0A4B08AAFB7ED0F",
     "comment": "",
-    "img": "https://files.kirakiratter.com/media_attachments/files/110/910/401/763/436/788/original/26fa8990fdd95c20.jpg",
+    "img": "https://kaya.mychara.xyz/images/20230818-1.jpg",
     "tags": [
       "オパール",
       "しらゆきひめ",
@@ -3630,12 +3630,24 @@
     "username": "KayaVI",
     "qr": "54A303AD9649F5FBA8FA3068222F098C54032EC1A736DFBA7731",
     "comment": "",
-    "img": "https://files.kirakiratter.com/media_attachments/files/110/910/401/411/656/648/original/ea5a7a015088e667.jpg",
+    "img": "https://kaya.mychara.xyz/images/20230818-2.jpg",
     "tags": [
       "たなばたドリーム",
       "ピンク"
     ],
     "coordinate": "たなばたドリームピンク"
+  },
+  {
+    "timestamp": "2023-08-21T09:15:25.502Z",
+    "name": "かや",
+    "username": "KayaVI",
+    "qr": "54A303E1CA3D27664595F91E3DD8B71CB765987AF70AE6A59DC9",
+    "comment": "ﾜｯﾁｬフル",
+    "img": "https://kaya.mychara.xyz/images/20230820-0.jpg",
+    "tags": [
+      "ミュージックエール"
+    ],
+    "coordinate": "ミュージックエール"
   },
   {
     "timestamp": "2022-06-08T17:05:35.916Z",
