@@ -309,6 +309,18 @@
     "coordinate": "サマーメイドホワイトスカイ"
   },
   {
+    "timestamp": "2023-09-14T23:06:08.203Z",
+    "name": "SaY0",
+    "username": "KayaVI",
+    "qr": "54A303F632697DA8286234EE1FAACF10C6EDE076BDFC2599A99F",
+    "comment": "",
+    "img": "https://kaya.mychara.xyz/images/20230914-6.jpg",
+    "tags": [
+      "おしゃれプリンセス"
+    ],
+    "coordinate": "おしゃれプリンセス"
+  },
+  {
     "timestamp": "2022-11-02T04:14:56.481Z",
     "name": "lilium",
     "username": "ミントてゃん",
@@ -3934,8 +3946,8 @@
     "name": "かや",
     "username": "KayaVI",
     "qr": "54A30343F56E382D1928472CA71BB44D86CE897C7DB13B9BC532",
-    "comment": "https://kaya.mychara.xyz/images/20230914-2.jpg",
-    "img": "https://kaya.mychara.xyz/images/20230914-1.jpg",
+    "comment": "",
+    "img": "https://kaya.mychara.xyz/images/20230914-2.jpg",
     "tags": [
       "フレッシュフェアリー",
       "ピンク"
