@@ -293,14 +293,17 @@
     "coordinate": "ブリティッシュジェントル"
   },
   {
-    "timestamp": "2023-10-05T11:55:51.297Z",
+    "timestamp": "2023-10-05T11:57:11.201Z",
     "name": "ゆき",
     "username": "ゆき",
-    "qr": "54A303DC15015D1B0CD2E1CCE0EF8405C9379F3DF09DFE0C6BAF",
-    "comment": "健康的",
-    "img": "https://i.imgur.com/1HMYhIL.jpg",
-    "tags": [],
-    "coordinate": "スタースプラッシュマリン"
+    "qr": "54A303480F7B33C23FDE80497AD6E19C52C0EE869478F7698AC2",
+    "comment": "",
+    "img": "https://i.imgur.com/TOGWS4a.jpg",
+    "tags": [
+      "サマーメイドホワイト",
+      "リーフ"
+    ],
+    "coordinate": "サマーメイドホワイトリーフ"
   },
   {
     "timestamp": "2023-08-05T11:23:47.012Z",
