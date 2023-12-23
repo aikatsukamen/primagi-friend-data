@@ -8856,9 +8856,11 @@
     "comment": "",
     "img": "https://i.imgur.com/2aASZmC.jpg",
     "tags": [
-      "クリスマスツリースマイル"
+      "クリスマスツリースマイル",
+      "スマイルエレメンツ",
+      "エレメンツコーデ"
     ],
-    "coordinate": "クリスマスツリースマイル スマイルエレメンツ エレメンツコーデ"
+    "coordinate": "クリスマスツリースマイル"
   },
   {
     "timestamp": "2022-06-08T16:55:19.806Z",
@@ -11059,9 +11061,22 @@
     "img": "https://i.imgur.com/ukUusUl.jpg",
     "tags": [
       "クリスマスベル",
-      "クリスマスベルピンク"
+      "クリスマスベルピンク",
+      "おおきい"
     ],
     "coordinate": "クリスマスベルピンク"
+  },
+  {
+    "timestamp": "2023-12-23T15:15:58.294Z",
+    "name": "なみこ",
+    "username": "しちみ",
+    "qr": "54A303E8F8BC504C5F10670D66D0158A6CF584F369887355E081",
+    "comment": "",
+    "img": "https://i.imgur.com/4UZXKMN.jpg",
+    "tags": [
+      "もふもふトナカイ"
+    ],
+    "coordinate": "もふもふトナカイ"
   },
   {
     "timestamp": "2022-08-15T13:33:20.153Z",
