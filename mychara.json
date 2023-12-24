@@ -293,14 +293,16 @@
     "coordinate": "ブリティッシュジェントル"
   },
   {
-    "timestamp": "2023-12-24T07:52:34.257Z",
+    "timestamp": "2023-12-24T07:55:04.591Z",
     "name": "ゆき",
     "username": "ゆき",
-    "qr": "54A303155F57B542E392E59F24D9C926E8B823DF4E094606B519",
-    "comment": "",
+    "qr": "54A303D55FA2AF9A969FF787E0E1D2B013C09F869B347813669B",
+    "comment": "お腹",
     "img": "https://i.imgur.com/TxiSSws.jpg",
-    "tags": [],
-    "coordinate": "チムムスクール"
+    "tags": [
+      "オリコ"
+    ],
+    "coordinate": "ペイントルックトップス"
   },
   {
     "timestamp": "2023-10-09T15:07:28.509Z",
