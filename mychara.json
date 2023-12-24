@@ -293,14 +293,16 @@
     "coordinate": "ブリティッシュジェントル"
   },
   {
-    "timestamp": "2023-12-24T07:48:54.975Z",
+    "timestamp": "2023-12-24T07:50:20.236Z",
     "name": "ゆき",
     "username": "ゆき",
-    "qr": "54A30373B07EA7D0C500121FD11C2688DDBD64266D60412A03D2",
-    "comment": "くまくまパークかもしれない",
-    "img": "https://i.imgur.com/wQwx8JC.jpg",
-    "tags": [],
-    "coordinate": "不明"
+    "qr": "54A303A7F9E2B63E8A8B3703CF6AF241A2D91AEF2BCCCAEA4EE4",
+    "comment": "モッズコートすき",
+    "img": "https://i.imgur.com/lqk3mPq.jpg",
+    "tags": [
+      "オリコ"
+    ],
+    "coordinate": "モッズコート"
   },
   {
     "timestamp": "2023-10-09T15:07:28.509Z",
