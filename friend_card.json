@@ -737,19 +737,6 @@
     "coordinate": "みゃむラブリーメロディプリンセス"
   },
   {
-    "timestamp": "2024-01-23T07:38:50.784Z",
-    "name": "SaY0",
-    "username": "KayaVI",
-    "qr": "54A303E652BC09A7B36594285A920C2A090661C08061873B3217",
-    "comment": "",
-    "img": "https://kaya.mychara.xyz/images/20240115-3.jpg",
-    "tags": [
-      "マナマナ",
-      "マナマナジェニファー"
-    ],
-    "coordinate": "マナマナジェニファー"
-  },
-  {
     "timestamp": "2022-11-02T04:14:56.481Z",
     "name": "lilium",
     "username": "ミントてゃん",
@@ -5469,6 +5456,19 @@
       "エンジェルバブル"
     ],
     "coordinate": "エンジェルバブルイエロー"
+  },
+  {
+    "timestamp": "2024-01-23T07:38:50.784Z",
+    "name": "かや",
+    "username": "KayaVI",
+    "qr": "54A303E652BC09A7B36594285A920C2A090661C08061873B3217",
+    "comment": "",
+    "img": "https://kaya.mychara.xyz/images/20240115-3.jpg",
+    "tags": [
+      "マナマナ",
+      "マナマナジェニファー"
+    ],
+    "coordinate": "マナマナジェニファー"
   },
   {
     "timestamp": "2022-06-08T17:05:35.916Z",
